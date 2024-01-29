@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.pai {
+    background-color: lightblue;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.mae {
+    background-color: lightgreen;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.filho {
+    background-color: lightcoral;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.filha {
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.tabela-cardapio {
+    border-collapse: collapse;
+    width: 100%;
+}
