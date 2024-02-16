@@ -26,7 +26,7 @@ Aqui estão algumas informações sobre eles:
 <a href="https://github.com/tarcillabarbosa/">
  <img style="border-radius: 50%;" src="https://gravatar.com/userimage/246749608/02305b24812a2f8cb049cb7a5ea80d10.jpeg" width="100px;" alt="TarcillaBarbosa"/>
  <br />
- <sub><b>Letícia Vargas</b></sub></a>
+ <sub><b>Tarcilla Barbosa</b></sub></a>
 
 
 Feito com ❤️ e ☕  por Tarcilla Barbosa
